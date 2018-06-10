@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a CLI Application with External Data
 
 ## Overview
@@ -108,3 +109,7 @@ Project reviews are focused on preparing you for technical interviews. Treat pro
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/cli-data-gem-assessment'>CLI Data Gem Project</a> on Learn.co and start learning to code for free.</p>
+=======
+# mcd_nutrition-cli-app
+McDonald's Nutrition Finder CLI App
+>>>>>>> 5ec618e7005f742dafc41ef3a3de019f3be2fa0f
