@@ -35,7 +35,7 @@ class Scraper
   end
   
   def test 
-    mock = Watir::Browser.new :chrome, headless: true
+    mock = Watir::Browser.new
     mock_site = mock.start 'https://www.mcdonalds.com/us/en-us/product/quarter-pounder-with-cheese.html'
     site = Nokogiri::HTML.parse(mock_site.html)
     binding.pry
